@@ -197,12 +197,12 @@ def menu(my_name,my_id):
 		login_lagi334()
 	os.system('clear')
 	
-,---.
+
       
  
-   ____
-  / __
-  ____)
+
+
+
 
                                         
 \033[1;92Wellcome [1;90mÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ\x1b[1;92mLove you
