@@ -397,12 +397,12 @@ logo = ("""
 \x1b[1;95m  ######   #######  ##     ## ##     ## ##    ##
 
    \x1b[1;92m╔═════════════════════════════
-   \x1b[1;92m║➣TOOL NAME : { SUMAN }   
-   \x1b[1;92m║➣AUTHOR        : Tremux-Suman       
-   \x1b[1;92m║➣WHATSAPP   : 01934031767 
-   \x1b[1;92m║➣FACEBOOK    : suman.love420  
-   \x1b[1;92m║➣Type               :  PAID
-   \x1b[1;92m║➣TELEGRAM   : [ 01934031767 ]      
+   \x1b[1;92m║➣TOOL NAME : { SUMAN }                      ║
+   \x1b[1;92m║➣AUTHOR    : Tremux-Suman                   ║
+   \x1b[1;92m║➣WHATSAPP  : 01934031767                    ║
+   \x1b[1;92m║➣FACEBOOK  : suman.love420                  ║
+   \x1b[1;92m║➣Type      : PAID                           ║
+   \x1b[1;92m║➣TELEGRAM  :[01934031767]                   ║
    \x1b[1;92m╚═════════════════════════════""")
 
 class Main:
@@ -441,7 +441,7 @@ class Main:
 		xx = 999999999
 		idx = "100000" 
 		os.system('clear');print(logo)
-		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
+		limit = int(input(" \n\033[0;95m[+]\033[0;93m Example (1000) (2000) (3000) (5000) (10000) "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -450,7 +450,7 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] USE (123456) FOR IDZ\033[1;37m ")
+				print("\n\033[1;32m [!] USE (123456)(1234567)(12345678)(123456789)(123123)( FOR IDZ\033[1;37m ")
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
@@ -868,7 +868,7 @@ class Main:
 		xx = 9999999999
 		idx = "10000" 
 		os.system('clear');print(logo)
-		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
+		limit = int(input("\n \033[0;95m[+]\033[0;93m Example:- (1000) (2000) (3000) (5000) (10000) "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -877,7 +877,7 @@ class Main:
 			
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n\033[1;32m [!] USE (123456) FOR IDZ\033[1;37m ")
+				print("\n\033[1;32m [!] USE (123456)(1234567)(12345678)(123456789)(123123) FOR IDZ\033[1;37m ")
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(G,Y))
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(B))
