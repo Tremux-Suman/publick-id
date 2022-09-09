@@ -1,7 +1,7 @@
 # publick-id
 # SUMAN
 
-PAID TOOLS
+FREE TOOLS
 
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SUMAN-dimgray?style=flat-square&logo=github)](https://github.com/Tremux-Suman)<br> [![Facebook](https://img.shields.io/badge/Facebook-SUMAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Suman.love420)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SUMAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801934031767)
 
